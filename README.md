@@ -1,6 +1,27 @@
-# Project Title
+# AndyMental Portfolio
 
-One Paragraph of project description goes here
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique facilis officiis corporis dolorum a eveniet quae sed, nihil tenetur neque quis amet perspiciatis, fuga dicta odio, accusamus, laboriosam commodi recusandae!
+
+> This is a Ruby on Rails 5.2 application that allows users to create their own portfolios.
+
+### Features
+
+- Real time chat engine for comments
+- Blog
+- Portfolio
+- Ongoing Projects
+- Resume
+- Associated platform profile links
+- Social Acredation
+- Drag and Drop Interface
+
+### Code Example
+
+```ruby
+def my_awesome_trick
+  puts "do something"
+end
+```
 
 ## Getting Started
 
